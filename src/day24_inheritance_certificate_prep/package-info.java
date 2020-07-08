@@ -1,0 +1,1 @@
+package day24_inheritance_certificate_prep;

@@ -1,0 +1,1 @@
+package day15_constructor_static_keyword;
